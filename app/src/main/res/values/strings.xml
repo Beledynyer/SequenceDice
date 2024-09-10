@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P1T2_android_app</string>
+    <string name="homeTitle">Sequence Dice</string>
+    <string name="playBtn">Play</string>
+    <string name="playAgain">Play Again</string>
+    <string name="homeButton">Home</string>
+    <string name="RulesButton">Game Rules</string>
+    <string name="LeaderBoard">Leaderboard</string>
+    <string name="startBtn">Start</string>
+</resources>

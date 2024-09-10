@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BoardView">
+        <attr name="boardColour" format="color"/>
+        <attr name="Colour1" format="color"/>
+        <attr name="Colour2" format="color"/>
+        <attr name ="Colour3" format="color" />
+        <attr name="WinningLineColour" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="Die">
+        <!-- Define any custom attributes for Die here -->
+        <!-- Example attribute -->
+        <attr name="dieColor" format="color"/>
+    </declare-styleable>
+</resources>
