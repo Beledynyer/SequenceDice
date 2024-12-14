@@ -1,3 +1,5 @@
+Android implementation of Sequence Dice game.
+
 The aim of the game is for a player (or team of players) to complete a sequence of five tokens of their colour (or six tokens in a 3 or 4 player game), in either a connected line in a row, column or diagonal. The game play rules are simple, to decide who starts the game, each player rolls the two die and the player with the highest total starts.
 Thereafter each player gets a turn in a clockwise order, until there is a winner.
 On a player’s turn, they roll the die. The sum of the die indicate what the player can do:
