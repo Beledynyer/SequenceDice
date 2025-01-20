@@ -21,7 +21,6 @@ public class GameRulesActivity extends AppCompatActivity {
 
     private TextView rulesTextView;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
